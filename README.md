@@ -23,7 +23,7 @@ Installation
 To run the project locally, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/TanishSharma2004/movie-recommendation-system.git
+git clone https://github.com/anshu81shushant/Movie-Recommendation-System
 cd movie-recommendation-system
 
 
@@ -149,6 +149,9 @@ movie-recommendation-system/
 └── assets/                   # Flow charts, architecture diagrams, screenshots
 
 Screenshots
+![Screenshot 2025-05-25 184853](https://github.com/user-attachments/assets/f2bf859f-755b-4236-b3c8-365657636fdb)
+![Screenshot 2025-05-25 184359](https://github.com/user-attachments/assets/3d410b49-bc6f-427d-86d5-9a02b8a8ccac)
+![Screenshot 2025-05-25 184105](https://github.com/user-attachments/assets/95008b24-b061-45d8-b803-07a148018fad)
 
 
 Main Interface: Movie selection and recommendations.
@@ -174,9 +177,7 @@ GitHub Documentation
 Render Documentation
 
 Acknowledgments
-![Screenshot 2025-05-25 184853](https://github.com/user-attachments/assets/f2bf859f-755b-4236-b3c8-365657636fdb)
-![Screenshot 2025-05-25 184359](https://github.com/user-attachments/assets/3d410b49-bc6f-427d-86d5-9a02b8a8ccac)
-![Screenshot 2025-05-25 184105](https://github.com/user-attachments/assets/95008b24-b061-45d8-b803-07a148018fad)
+
 
 Dr. Rinky Ahuja for guidance.
 TMDB for providing the dataset and API.
